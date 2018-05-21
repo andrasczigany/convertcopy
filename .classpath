@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="D:/prog/convertcopy/lib"/>
+	<classpathentry kind="lib" path="lib/jave-1.0.2.jar" sourcepath="lib/jave-1.0.2-src"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.5.jar" sourcepath="D:/prog/convertcopy/lib/commons-io-2.5-src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
